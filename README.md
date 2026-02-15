@@ -1,6 +1,6 @@
 HR Analytics Dashboard 📊
 
-![HR Analytics Dashboard](dashboard_preview.png)
+![HR Analytics Dashboard](https://claude.ai/api/f9eefbbf-1464-4826-ab9f-4819d761b8ce/files/9b9540ae-072a-4b69-ac10-2a4a970b2297/preview)
 
 ## 🎯 Project Overview
 
