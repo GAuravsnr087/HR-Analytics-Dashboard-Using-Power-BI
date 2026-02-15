@@ -1,7 +1,5 @@
 HR Analytics Dashboard 📊
 
-![HR Analytics Dashboard](https://claude.ai/api/f9eefbbf-1464-4826-ab9f-4819d761b8ce/files/9b9540ae-072a-4b69-ac10-2a4a970b2297/preview)
-
 ## 🎯 Project Overview
 
 This project presents an interactive HR Analytics Dashboard that provides comprehensive insights into employee data, attrition patterns, and workforce demographics. The dashboard enables HR professionals and business leaders to make data-driven decisions regarding employee retention, satisfaction, and organizational planning.
